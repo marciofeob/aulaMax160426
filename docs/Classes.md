@@ -1,3 +1,6 @@
+<img width="979" height="1063" alt="image" src="https://github.com/user-attachments/assets/97f330d9-b3e3-4d18-8a9e-882efff38e10" />
+
+
 # Aluno
 ## RF01, RF04, RF05, RF06, RF10
 - idAluno
